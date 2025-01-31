@@ -1,6 +1,6 @@
 from __future__ import annotations
 from abc import ABC
-from typing import Any, Type
+from typing import Type
 
 
 class IntegerRange:
